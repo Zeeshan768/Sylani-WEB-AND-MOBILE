@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Periodic Table</title>
+</head>
+
+<body>
+    <table>
+        <tr style="border-collapse: collapse" >
+            <th  style="border: 1px solid black; border-collapse: collapse" colspan="18">
+                <h1>The Periodic Table</h1>
+            </th>
+        </tr>
+        <tr style="border-collapse: collapse" >
+            <td style="border: 1px solid black;border-collapse: collapse">H</td>
+            <td  colspan="16" ></td>
+            <td style="border: 1px solid black;border-collapse: collapse">He</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">Li</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Be</td>
+            <td colspan="10"></td>
+            <td style="border: 1px solid black;border-collapse: collapse">B</td>
+            <td style="border: 1px solid black;border-collapse: collapse">C</td>
+            <td style="border: 1px solid black;border-collapse: collapse">N</td>
+            <td style="border: 1px solid black;border-collapse: collapse">O</td>
+            <td style="border: 1px solid black;border-collapse: collapse">F</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ne</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">Na</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mg</td>
+            <td colspan="10"></td>
+            <td style="border: 1px solid black;border-collapse: collapse">Al</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Si</td>
+            <td style="border: 1px solid black;border-collapse: collapse">P</td>
+            <td style="border: 1px solid black;border-collapse: collapse">S</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cl</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ar</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+          
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+        </tr>
+        <tr>
+            <td rowspan="2" colspan="2"></td>    
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+         
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;border-collapse: collapse">K</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ca</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Sc</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Ti</td>
+            <td style="border: 1px solid black;border-collapse: collapse">V</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Cr</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+            <td style="border: 1px solid black;border-collapse: collapse">Mn</td>
+        </tr>   
+    </table>
+    <table >
+        <tr style="border: 1px solid black;border-collapse: collapse">
+            <td style="border: 1px solid black;border-collapse: collapse">h</td>
+            <td >h</td>
+            <td>h</td>
+        </tr>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Form</title>
+</head>
+<body>
+    <h1>HTML FORM</h1>
+    <form>
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label >Name  : <input type="text" placeholder="Name" required></label><br><br>
+            <label >Father: <input type="text" placeholder="fathername" ></label><br><br>
+            <label >Age   : <input type="number" min="0" max="100" placeholder="age" ></label><br><br>
+            <label >DOB   : <input type="date"  required></label><br><br>
+            <label >CNIC  : <input type="text" placeholder="xxxxx-xxxxxxx-x" maxlength="20"  ></label><br><br>
+            <label>Pasword: <input type="password" minlength="4" maxlength="12"  ></label><br><br>
+            <label>Gender<br><br>
+            Male  :<input type="radio" name="gender" value="male" >
+            Female:<input type="radio" name="gender" value="fmale" >
+            Other :<input type="radio" name="gender" value="other" ></label><br><br>
+        </fieldset>
+        <br>
+        <hr>
+        <br>
+        <fieldset>
+            <legend>Contact Detail</legend>
+            <label >Adress  : <input type="text"  ></label><br><br>
+            <label >Phone  : <input type="number" minlength="10" maxlength="15" ></label><br><br>
+            <label >Email  : <input type="Email"  ></label><br><br>
+            <label >Country  : <select name ="country">
+                <option value="Turkey">Turkey</option>
+                <option  selected value="Pakistan" >Pakistan</option>
+                <option value="Iran">Iran</option>
+            </select>    
+            </label><br><br>      
+        </fieldset>
+        <br>
+        <hr>
+        <br>
+        <fieldset>
+            <legend>Business Dtail</legend>
+            <label >Company   : <input type="text"></label><br><br>
+            <label >Department: <input type="text"></label><br><br>
+            <label >Select Products<br>
+            <label>Product 1 : <input type="checkbox" name="product1" value="p1"><br></label>
+            <label>Product 2 : <input type="checkbox" name="product1" value="p1"><br></label>
+            <label>Product 3 : <input type="checkbox" name="product1" value="p1"><br></label>
+            <label>Product 4 : <input type="checkbox" name="product1" value="p1"><br></label>
+            <label>Product 5 : <input type="checkbox" name="product1" value="p1"><br></label>
+            <label>Product 6 : <input type="checkbox" name="product1" value="p1"><br></label>
+             <br></label> 
+             <label >About Companey: <br><textarea name="textarea" cols="30" rows="10" fix></textarea></label><br><br>           
+        </fieldset>
+        <br>
+        <hr>
+        <br>
+        <fieldset>
+            <legend>Files</legend>
+            <label >Picture : <input type="File"></label><br><br>
+            <label >Lisence : <input type="File"></label><br><br>
+            <input type="range" min="10" max="100">
+             </label>            
+        </fieldset>
+        <br>
+        <button type="submit">Submit</button>
+        <button type="reset">Reset</button>
+    </form>
+    <br>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/DHnHpHkwqs4"></iframe>
+</body>
+</html>

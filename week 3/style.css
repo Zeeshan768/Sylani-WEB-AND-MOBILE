@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.contaier {
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua;
+  display: flex;
+}
+.header {
+  background-color: yellow;
+  width: 100%;
+  height: 50px;
+  
+}
+.body {
+  display: flex;
+  background-color: blue;
+  height: 470px;
+}
+.body-1 {
+  flex: 1;
+  background-color: aqua;
+}
+.body-2 {
+  flex: 2;
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  overflow-y: scroll;
+  
+}
+.body-2p {
+  margin-top: 10px;
+  border-radius: 20px;
+  height: 250px;
+  width: 125px;
+  background-color: black;
+}
+.body-3 {
+  flex: 1;
+
+  background-color: aquamarine;
+}

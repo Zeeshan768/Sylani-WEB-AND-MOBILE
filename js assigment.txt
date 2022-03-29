@@ -1,0 +1,56 @@
+
+// var a =+ prompt("Enter your desire tabel number :")
+// document.write("<h1>Table of</h1>",`<h1>${a}</h1>`)
+// for(var i=1;i<=10;i++){
+//     var c = a*i;
+//     console.log(`${a} x ${i} = ${c}`);
+//     document.write(`${a} x ${i} = ${c}`);
+//     document.write("<br>");
+// }
+// var a = + prompt("Enter 1st number: ");
+// var b = + prompt("Enter 2nd number: ");
+// var c = a * b;
+// document.write(`${a} x ${b} = ${c}`)
+//Calculator
+// var a = prompt("Select an operator"," +  - / * ");
+// if(a == `+`)
+// {
+//     var b = + prompt("Enter 1st number");
+//     var c = + prompt("Enter 2st number");
+//     var d = + b+c;
+//     alert(`${b} + ${c} = ${d}`)
+//     document.write(`${b} + ${c} = ${d}`)
+
+// }
+// if(a == `-`)
+// {
+//     var b = + prompt("Enter 1st number");
+//     var c = + prompt("Enter 2st number");
+//     var d = + b-c;
+//     alert(`${b} - ${c} = ${d}`)
+//     document.write(`${b} - ${c} = ${d}`)
+  
+// }
+// if(a == `*`)
+// {
+//     var b = + prompt("Enter 1st number");
+//     var c = + prompt("Enter 2st number");
+//     var d = + b*c;
+//     alert(`${b} x ${c} = ${d}`);
+//     document.write(`${b} x ${c} = ${d}`);
+
+// }
+// if(a == `/`)
+// {
+//     var b = + prompt("Enter 1st number");
+//     var c = + prompt("Enter 2st number");
+//     var d = + b/c;
+//     alert(`${b} / ${c} = ${d}`);
+//     document.write(`${b} / ${c} = ${d}`);
+ 
+// }
+// else{
+    
+
+// }
+
